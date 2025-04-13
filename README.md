@@ -18,7 +18,7 @@ This study proposes an approach based on **Deep Learning** for predicting defect
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- Models configuration files<br>
 |--- dataset<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- java<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- The dataset location
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- The dataset location
 <br><br>
 ## **ARTICLE LINK**
 
