@@ -1,3 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+![GitHub language count](https://img.shields.io/github/languages/count/rodrigoalexandre/apachejit-sdp-multilayerperceptron)
+![GitHub top language](https://img.shields.io/github/languages/top/rodrigoalexandre/apachejit-sdp-multilayerperceptron)
+![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/apachejit-sdp-multilayerperceptron)
 ## **DESCRIPTION**
 
 Project developed for the study presented in the article *“Just-in-Time Software Defect Prediction Using a Deep Learning-based Model”* published by *New Trends in Computer Sciences* (Volume 02, Issue 02, Dec. 2024).
@@ -28,5 +32,5 @@ https://doi.org/10.3846/ntcs.2024.22274
 The dataset used in this study is publicly available at: https://doi.org/10.5281/zenodo.5907001
 <br><br>
 ## **LICENSE**
-This project is open-source.
+This project is available under the **MIT license**. See the LICENSE file for more details.
 <br><br>
