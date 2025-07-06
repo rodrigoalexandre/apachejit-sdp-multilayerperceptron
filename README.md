@@ -25,11 +25,13 @@ This study proposes an approach based on **Deep Learning** for predicting defect
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- The dataset location
 <br><br>
 ## **ARTICLE LINK**
-
 https://doi.org/10.3846/ntcs.2024.22274
 <br><br>
 ## **RESOURCES**
 The dataset used in this study is publicly available at: https://doi.org/10.5281/zenodo.5907001
+<br><br>
+## **OBSERVATION**
+After the article was published, a problem was found in the data splitting process for training and testing. The model was retrained after reviewing and correcting this process. The number of samples used in the training and testing sets now differs from that described in the article. Although this change occurred in the dataset, the model architecture and the hyperparameters used in training remain the same as those described in the article.
 <br><br>
 ## **LICENSE**
 This project is available under the **MIT license**. See the LICENSE file for more details.
